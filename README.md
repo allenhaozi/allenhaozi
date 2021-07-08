@@ -7,6 +7,6 @@
 - :sparkles:  cloud native / kubernetes / AI PaaS
 
 ```
-If you want to go fast, go alone; but if you want to go far, go together.
+Whoever owns the data pipeline will own the production pipeline for machine learning --Chip Huyen
 ```
 [![allenhaozi GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenhaozi&show_icons=true&theme=tokyonight)](https://github.com/allenhaozi)
