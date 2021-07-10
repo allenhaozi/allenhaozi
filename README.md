@@ -10,3 +10,5 @@
 Whoever owns the data pipeline will own the production pipeline for machine learning --Chip Huyen
 ```
 [![allenhaozi GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenhaozi&show_icons=true&theme=tokyonight)](https://github.com/allenhaozi)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/allenhaozi/allenhaozi/output/github-contribution-grid-snake.svg)
