@@ -9,6 +9,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allenhaozi/allenhaozi/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)
 
 [![allenhaozi GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenhaozi&show_icons=true&theme=tokyonight)](https://github.com/allenhaozi)
 
