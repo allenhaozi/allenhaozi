@@ -3,8 +3,8 @@
 
 - :technologist:  MLOps Engineer @ [4Paradigm](https://www.4paradigm.com)
 - :cn:  Living in Beijing
-- :soccer:  My favorite sport, I can play once a week
-- :sparkles:  cloud native / kubernetes / AI PaaS
+- :soccer: :ski:  It's My favorite sport
+- :sparkles:  cloud native / kubernetes / AI PaaS / MLOps / Data Mesh
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allenhaozi/allenhaozi/output/github-contribution-grid-snake.svg)
