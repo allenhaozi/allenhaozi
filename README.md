@@ -5,6 +5,7 @@
 - :cn:  Living in Beijing
 - :soccer: :ski:  It's My favorite sport
 - :sparkles:  cloud native / kubernetes / AI PaaS / MLOps / Data Mesh
+- :mortar_board: what is the development philosophy
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allenhaozi/allenhaozi/output/github-contribution-grid-snake.svg)
