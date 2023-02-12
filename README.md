@@ -5,7 +5,7 @@
 - :cn:  Living in Beijing
 - :soccer: :ski:  It's My favorite sport
 - :sparkles:  cloud native / kubernetes / AI PaaS / MLOps / Data Mesh
-- :school: what is the development philosophy 路漫漫其修远兮
+- :school: what is the development philosophy
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allenhaozi/allenhaozi/output/github-contribution-grid-snake.svg)
