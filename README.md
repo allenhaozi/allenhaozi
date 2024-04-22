@@ -1,7 +1,7 @@
 ### Hey, I'm Allen 👋
 
 
-- :technologist:  MLOps Engineer @ [深势科技](https://www.dp.tech/)
+- :technologist:  MLOps Engineer @ [DP Technology](https://www.dp.tech/)
 - :cn:  Living in Beijing
 - :soccer: :ski:  It's My favorite sport
 - :sparkles:  cloud native / kubernetes / AI PaaS / MLOps / Data Mesh
